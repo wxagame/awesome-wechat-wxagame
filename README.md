@@ -8,7 +8,7 @@
 ## 官方文档
 
 - [小游戏开发文档](https://mp.weixin.qq.com/debug/wxagame/dev/index.html)
-- [小游戏Demo](https://mp.weixin.qq.com/debug/wxagame/dev/devtools/download.html?t=201814)【官方开发工具自带】
+- [小游戏Demo打飞机](https://mp.weixin.qq.com/debug/wxagame/dev/devtools/download.html?t=201814)【官方开发工具自带】
 
 ## 加群交流
 
